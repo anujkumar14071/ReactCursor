@@ -85,7 +85,7 @@ export function AppLayout() {
         <Outlet />
       </main>
       <footer className="footer">
-        <small>Demo e‑commerce app</small>
+        <small>Demo e‑commerce app 2026</small>
       </footer>
     </div>
   )
